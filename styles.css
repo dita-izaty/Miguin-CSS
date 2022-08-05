@@ -117,7 +117,7 @@
 }
 
 .hand1::before{
-    content: "";
+    content: "🧸";
     position: absolute;
     transform: rotate(-60deg);
     top: -01vmin;
@@ -137,7 +137,7 @@
 }
 
 .hand2::before{
-    content: "";
+    content: "❤️";
     position: absolute;
     transform: rotate(50deg);
     bottom: -03vmin;
